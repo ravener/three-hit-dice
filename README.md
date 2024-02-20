@@ -9,6 +9,7 @@ $ git clone https://github.com/ravener/three-hit-dice
 $ cd three-hit-dice
 $ python main.py
 ```
+
 The game is designed to be played with 2 Players in real life.
 
 The game asks for the first player's guess and after they press enter the screen is cleared to keep their guess a secret, now the second player may look at the screen and enter their guess, again after them pressing enter the screen is cleared. Now when both players are ready pressing another enter will start rolling the dices after a delay between them, now just watch as you await your guess to appear.
